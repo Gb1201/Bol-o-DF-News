@@ -41,6 +41,7 @@ Criar um sistema web capaz de **calcular, ordenar e exibir o ranking** dos parti
 ## 👨‍💻 Equipe
 
 -Gabriel Santos: Desenvolvedor Back-end e Organização do Projeto
+
 -Felipe Felpas: Desenvolvedor Front-End
 
 ---
