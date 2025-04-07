@@ -40,9 +40,20 @@ Criar um sistema web capaz de **calcular, ordenar e exibir o ranking** dos parti
 
 ## 👨‍💻 Equipe
 
--Gabriel Santos: Desenvolvedor Back-end e Organização do Projeto
+## 👨‍💻 Equipe
 
--Felipe Felpas: Desenvolvedor Front-End
+- **Gabriel Santos**: Desenvolvedor Back-End
+
+- **Felipe Felpas**: Desenvolvedor Front-End
+ 
+- **Renan Lelis e Diogo Francoski**: Coordenadores do Projeto
+
+- **Luis Gabriel**: Especialista em Regras do Ranking (entende completamente a lógica e funcionamento da pontuação)
+
+- **Jebson Kevin**: Colaborador
+
+
+-
 
 ---
 
