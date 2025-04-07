@@ -38,7 +38,6 @@ Criar um sistema web capaz de **calcular, ordenar e exibir o ranking** dos parti
 - Exportação do ranking em **PDF**
 - Armazenamento dos dados mesmo após desligar o sistema
 
-## 👨‍💻 Equipe
 
 ## 👨‍💻 Equipe
 
@@ -52,8 +51,6 @@ Criar um sistema web capaz de **calcular, ordenar e exibir o ranking** dos parti
 
 - **Jebson Kevin**: Colaborador
 
-
--
 
 ---
 
